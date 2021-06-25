@@ -5,10 +5,11 @@
 
 I can write:
 * Python (GDScript, game frameworks) 🥃 💻
+* HTML+CSS (Tailwind, SASS) 🕶
+* MySQL (SQL, databases...) 🗃
 * PHP (Wordpress) 🍺 🍕
 * JS ES6 (JavaScript, many scripts) 🤓
 * TypeScript (Angular) 🕵
-* HTML+CSS (Tailwind, SASS) 🕶
 * Kotlin (Android) 📱
 
 In this moment I'm work on two projects same time, in a game 🕹 named [mk2](https://github.com/maurestor/mk2) 🎮 and a Web. 🌎
