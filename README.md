@@ -5,7 +5,7 @@
 
 I can write:
 * Python (django, GDScript, game frameworks) 🥃 💻
-* HTML+CSS (Tailwind, SASS) 🕶
+* HTML+CSS (Tailwind, SASS...) 🕶
 * MySQL (SQL, databases...) 🗃
 * PHP (Wordpress) 🍺 🍕
 * JS ES6 (JavaScript, many scripts) 🤓
