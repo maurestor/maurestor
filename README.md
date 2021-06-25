@@ -1,8 +1,7 @@
-# My Bio.
-## Hi, 👋 I'm Mauricio Torres G. A.K.A (Mau_Restor). 😎
-I love videogames and programing :octocat:
+# Hi, 👋 I'm Mauricio Torres G. A.K.A (Mau_Restor). 😎
+## I love videogames and programing :octocat:
 
-I'm Web Developer 😃 and newbiew GameDev. 💻 :earth_americas:
+### I'm Web Developer 😃 and newbiew GameDev. 💻 :earth_americas:
 
 I can write:
 * Python
