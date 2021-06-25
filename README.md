@@ -4,7 +4,7 @@
 ### I'm Web Developer 👨‍💻 and newbiew GameDev. 💻 :earth_americas:
 
 I can write:
-* Python (GDScript, game frameworks) 🥃 💻
+* Python (django, GDScript, game frameworks) 🥃 💻
 * HTML+CSS (Tailwind, SASS) 🕶
 * MySQL (SQL, databases...) 🗃
 * PHP (Wordpress) 🍺 🍕
