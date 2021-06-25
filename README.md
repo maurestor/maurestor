@@ -12,3 +12,4 @@ I can write:
 * HTML+CSS
 
 In this moment I'm work on two projects same time, in a game named "mk2" and a Web.
+if you want contact me, send me a DM via [Twitter](https://twitter.com/mau_restor) or eMail me restor@gmail.com
