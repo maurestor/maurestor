@@ -1,7 +1,7 @@
 # Hi, 👋 I'm Mauricio Torres, A.K.A Mau_Restor. 😃
 ## I love videogames, linux and programing :octocat:
 
-### I'm programer, FullStack Dev 👨‍💻 and newbiew GameDev. 💻 :earth_americas:
+### I'm programer, WebDev 👨‍💻 and newbiew GameDev. 💻 :earth_americas:
 
 I can write:
 * Python (django, GDScript, game frameworks) 🥃 💻
