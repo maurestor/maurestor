@@ -6,7 +6,7 @@
 I can write:
 * Python (django, GDScript, game frameworks) 🥃 💻
 * HTML+CSS (Tailwind, SASS...) 🕶
-* JS ES6 (JavaScript, many scripts) 🤓
+* JS ES (JavaScript, many scripts) 🤓
 * PHP (Wordpress) 🍺 🍕
 * MySQL (SQL, databases...) 🗃
 * TypeScript (Angular) 🕵
