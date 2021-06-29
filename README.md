@@ -7,10 +7,10 @@ I can write:
 * Python (django, GDScript, game frameworks) 🥃 💻
 * HTML+CSS (Tailwind, SASS...) 🕶
 * JS ES (JavaScript, many scripts) 🤓
-* PHP (Wordpress) 🍺 🍕
+* PHP (Wordpress_plugs+themes) 🍺 🍕
 * MySQL (SQL, databases...) 🗃
 * TypeScript (Angular) 🕵
-* Kotlin (Android) 📱
+* Kotlin (Android apps) 📱
 
 In this moment I'm work on two projects same time, in a game 🕹 named [mk2](https://github.com/maurestor/mk2) 🎮 and a website. 🌎
 
