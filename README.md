@@ -1,4 +1,4 @@
-# Hi, 👋 I'm Mau Torres, A.K.A Mau_Restor. 😃
+# Hi, 👋 I'm Mau_Restor.
 ## I love videogames, linux and programing :octocat:
 
 ### I'm programer, WebDev 👨‍💻 and newbiew GameDev. 💻 :earth_americas:
