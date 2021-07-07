@@ -2,13 +2,7 @@
 ## I love videogames, linux and programing :octocat:
 
 I can write:
-* Python 🥃 💻 
-* HTML+CSS 🕶 
-* JS ES 🤓 
-* PHP 🍺 🍕 
-* MySQL 🗃 
-* TypeScript 🕵 
-* Kotlin 📱
+* Python 🥃 💻 • HTML+CSS 🕶 • JS ES 🤓 • PHP 🍺 🍕 • MySQL 🗃 • TypeScript 🕵 and Kotlin 📱
 
 In this moment I'm work on two projects same time, in a game 🕹 named [mk2](https://github.com/maurestor/mk2) 🎮 and a website. 🌎
 
