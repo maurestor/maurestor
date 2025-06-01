@@ -1,7 +1,5 @@
-# Hi, 👋
-## 🇲🇽
-
-I'm from México City. 
+# Hi, 👋 
+## I'm Mau_Restor from 🇲🇽 México City. 
 
 I use that programming languages from projects.
 
