@@ -1,5 +1,4 @@
-# Hi, 👋 
-## I'm Mau_Restor from 🇲🇽 México City. 
+# Hi, 👋 I'm Mau
 Software developer
 ------------------
 
