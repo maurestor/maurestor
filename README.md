@@ -3,7 +3,7 @@ Software developer
 ------------------
 
 * 🌍  I'm based in México
-* ⚡   I'm learning a new version of C++(26)
+* ⚡   I'm learning a new version of C++
 
 ### Skills
 I use that programming languages and software from projects.
